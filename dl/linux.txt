@@ -1,3 +1,5 @@
+linux系统添加中文输入法：All Settings -> Regin&Language -> Input Sources 添加Chinese
+
 linux git的配置过程：	
 	进入所要上传文件的目录输入命令  "git init"
 	创建一个本地仓库，使用命令  "git remote add origin git@github.com:ryosukess/cs.git"
