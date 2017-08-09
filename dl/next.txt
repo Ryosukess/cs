@@ -1,3 +1,5 @@
+2017/8/9  coreos etcd服务发现；solidworks
+
 2017/8/8  今天回去一定把mysql安装的时候，连接的问题搞清楚 然后excel服务器的网站浏览  试用。数据库  db2 oracle安装使用test
 
 everyday
