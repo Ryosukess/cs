@@ -1,3 +1,6 @@
+
+echo "11 222 3333 3333" |xargs -n 1 |uniq -u -d -c
+
 nginx,mysql,docker,hadoop
 
 
