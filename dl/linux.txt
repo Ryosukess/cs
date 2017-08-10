@@ -1,3 +1,5 @@
+
+
 linux系统添加中文输入法：All Settings -> Regin&Language -> Input Sources 添加Chinese
 
 linux git的配置过程：	

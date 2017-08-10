@@ -1,3 +1,6 @@
+
+yum的配置文件：etc/yum.repos.d  yum源的地址
+
 git添加数据仓库的步骤：
 
 …or create a new repository on the command line
