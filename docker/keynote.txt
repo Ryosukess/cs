@@ -1,1 +1,10 @@
-aksdjksajk
+
+docker exit: $exit
+
+docker run: $docker run -i -t centos /bin/bash
+
+使用下载的镜像创建一个容器，在其中运行bash应用  $docker run -t -i ubuntu /bin/bash
+
+启动docker $service docker start
+
+docker 安装镜像   $docker pull centos
