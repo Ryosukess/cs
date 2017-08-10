@@ -1,3 +1,20 @@
+git添加数据仓库的步骤：
+
+…or create a new repository on the command line
+
+echo "# economy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ryosukess/economy.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Ryosukess/economy.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+----------------------------------------------------------------
 windows pycharm下的爬虫程序的执行：
 	终端下创建项目：scrapy startproject XXX
 	运行:scraw crawl XX_spider
