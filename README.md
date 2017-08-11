@@ -1,6 +1,6 @@
 +++++++++++++++++++++++++++++++++++
-+                                 +
-+     daily study memory          +
-+           bla bla               +
-+                                 + 
+                                
+        daily study memory
+             bla bla               
+                                 
 +++++++++++++++++++++++++++++++++++
