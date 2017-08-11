@@ -15,5 +15,4 @@ nginx,mysql,docker,hadoop
 
 everyday
 geeks get it done
-你好啊
-我不好
+
