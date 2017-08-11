@@ -1,4 +1,18 @@
 
+
+
+tty=teletypes、teletypewriters  pts=pseudo-terminal slave
+
+当系统出现故障时，收集系统本地配置信息并诊断  $sosreport
+
+$history 用于显示历史执行过的命令  $history -c 用于清空该用户在本机中执行过命令的历史记录  history默认会保存1000条执行过的命令，若要修改可直接编辑/etc/profile文件的HISTSIZE值
+
+$last 用于查看所有系统的登入记录
+
+$who 查看当前登入主机用户的情况
+
+$free -m/-g  查看当前系统中内存的使用情况，分别以m为单位、以g为单位
+
 linux vi编辑器光标快速定位：h,j,k,l 左移下移上移右移；shift+^ 所在行首字母 $(shift+4) 所在行行尾；H(shift+h) 当前屏幕首行行首；M(shift+m) 当前屏幕中间行行首；L(shift+l) 当前屏幕底行行首;G(shift+g)当前打开文件末行行首
 
 $watch -n 1 up time 每秒刷新一次获得当前的系统负载情况，输出内容分别为系统当前时间、系统已运行时间、当前在线用户以及平均负载值
