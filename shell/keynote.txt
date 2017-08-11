@@ -1,5 +1,5 @@
 
-linux vi快速操作：h,j,k,l 左移下移上移右移；shift+^ 所在行首字母 $(shift+4) 所在行行尾；H(shift+h) 当前屏幕首行行首；M(shift+m) 当前屏幕中间行行首；L(shift+l) 当前屏幕底行行首;G(shift+g)当前打开文件末行行首
+linux vi编辑器光标快速定位：h,j,k,l 左移下移上移右移；shift+^ 所在行首字母 $(shift+4) 所在行行尾；H(shift+h) 当前屏幕首行行首；M(shift+m) 当前屏幕中间行行首；L(shift+l) 当前屏幕底行行首;G(shift+g)当前打开文件末行行首
 
 $watch -n 1 up time 每秒刷新一次获得当前的系统负载情况，输出内容分别为系统当前时间、系统已运行时间、当前在线用户以及平均负载值
 
