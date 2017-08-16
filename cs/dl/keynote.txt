@@ -1,0 +1,84 @@
+
+yum的配置文件：etc/yum.repos.d  yum源的地址
+
+git添加数据仓库的步骤：
+
+…or create a new repository on the command line
+
+echo "# economy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ryosukess/economy.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Ryosukess/economy.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+----------------------------------------------------------------
+windows pycharm下的爬虫程序的执行：
+	终端下创建项目：scrapy startproject XXX
+	运行:scraw crawl XX_spider
+
+爬虫程序基本要完成的工作：
+ 1.模拟浏览器访问，获取html源代码
+ 2.通过正则匹配，获取指定标签中的内容
+ 3.将获取到的内容写到文件中
+
+centos 安装中文输入法  $yum install "@Chinese Support
+
+python >>>  退出 $ctrl + d
+------------------------------------------------------------------------
+github repository 操作
+ 1. …or create a new repository on the command line:
+
+	echo "# dotvim" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/Ryosukess/dotvim.git
+	git push -u origin master
+
+ 2.…or push an existing repository from the command line:
+
+	git remote add origin https://github.com/Ryosukess/dotvim.git
+	git push -u origin master
+ 3.…or import code from another repository
+  	You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+------------------------------------------------------------------------
+vim操作：
+	文件中操作的时候，切换到命令模式下  ndd 删除所在行及其以下的n多行 
+
+------------------------------------------------------------------------
+shell操作: 
+	 文件中写入字符xxx，如果路径中没有的创建文件xxx.xx
+		$echo "xxx">>xxx.xx
+	 显示转义字符
+        	$echo "\"It is a test\""
+		 "It is a test" 
+    	 显示变量
+		$name="OK" $echo "$name It is tet" --> OK It is a test (显示变量)
+-----------------------------------------------------------------------
+terminal 清屏  $ctrl + l  $clear   
+
+python字典：
+eg.	 dict = ('a':1,'b':2)
+ 	 print"a:",dict('a')
+----------------------------------------------------------------------
+vi操作命令  复制当前行 yy  然后p 粘贴到下一行
+
+shell printf 控制输出  %s,%c,%d,%f 都是格式替代符  %-5s 指明了一个格式为左对齐宽度为5的字符串替代  如果内容不足5字符，余下的则以空格符填充
+---------------------------------------------------------------------
+删除一个目录  rm -rf xxx
+---------------------------------------------------------------------
+maoos安装包依赖软件的命令 brew+XXXX
+
+
+
+
+
+
+
+
